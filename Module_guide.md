@@ -10,7 +10,7 @@ Sections:
 
 ## The Libraries
 
-There are lots of non-IPFS related modules that have been buiult for IPFS that acts as dependencies. 
+There are lots of non-IPFS related modules that have been built for IPFS that acts as dependencies. 
 
 ### libp2p
 
